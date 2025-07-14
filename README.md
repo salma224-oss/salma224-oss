@@ -1,3 +1,5 @@
+About me
+
 I’m an engineering student at ENSAM-Meknès with a strong interest in artificial intelligence, data science, and industrial automation. I’m passionate about leveraging AI to solve real-world problems, automate repetitive tasks, and simplify complex systems across various domains — from industry to education. I also have a creative side: I enjoy designing and developing modern, intuitive web pages that combine functionality with aesthetic appeal. Whether it's building smart systems or clean interfaces, I love turning ideas into impactful solutions through code.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/salma-oulkiass-67723624b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salmaoulk18@gmail.com) 
